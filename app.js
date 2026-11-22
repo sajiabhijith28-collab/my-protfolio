@@ -6,7 +6,7 @@
 (function () {
   "use strict";
 
-  const STORAGE_KEY = "portfolio_3d_resume_abhijith_v3";
+  const STORAGE_KEY = "portfolio_3d_resume_abhijith_v4";
   let resumeData = loadData();
   let activeCategory = "All";
 

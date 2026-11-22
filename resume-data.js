@@ -15,14 +15,14 @@ window.DEFAULT_RESUME_DATA = {
     experienceYears: "Full-Stack Web · Native Android · UI/UX",
     email: "sajiabhijith28@gmail.com",
     phone: "+91 8714858806",
-    website: "www.abhijith.in",
-    websiteUrl: "https://www.abhijith.in",
+    website: "www.abhijithsaji.in",
+    websiteUrl: "https://www.abhijithsaji.in",
     languages: "Malayalam (Native) · English (Professional) · Hindi · Tamil",
     summary:
       "Results-oriented Full-Stack Web and Android Developer with hands-on experience architecting, developing, and deploying responsive web platforms and native mobile applications. Adept at engineering scalable frontend user interfaces using React.js, Next.js, TypeScript, and Tailwind CSS, alongside building high-performance Android applications with Kotlin and Jetpack Compose. Strong foundation in backend integration using Supabase and PostgreSQL, paired with core computer science fundamentals in C and C++. Proven ability to lead end-to-end product development from initial concept and UI/UX prototyping to production cloud deployment, demonstrated through founding and launching My Dr, a regional healthcare appointment booking platform.",
     links: [
+      { label: "Portfolio", url: "https://www.abhijithsaji.in", handle: "www.abhijithsaji.in" },
       { label: "Website", url: "https://www.abhijith.in", handle: "www.abhijith.in" },
-      { label: "My Dr Live", url: "https://www.abhijithsaji.in", handle: "www.abhijithsaji.in" },
       { label: "LinkedIn", url: "https://www.linkedin.com/in/sajiabhijith28-collab", handle: "in/sajiabhijith28-collab" },
       { label: "GitHub", url: "https://github.com/sajiabhijith28-collab", handle: "github.com/sajiabhijith28-collab" }
     ]
