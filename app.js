@@ -86,7 +86,7 @@
           <circle cx="38" cy="24" r="3.5" fill="#FFD166"/>
           <circle cx="50" cy="24" r="3.5" fill="#E11D48"/>
           <rect x="74" y="17" width="166" height="14" rx="7" fill="rgba(255,168,102,0.08)"/>
-          <text x="86" y="27" fill="#D7C3B8" font-family="monospace" font-size="8">MY DR · www.abhijithsaji.in</text>
+          <text x="86" y="27" fill="#D7C3B8" font-family="monospace" font-size="8">MY DR · KERALA HEALTHCARE</text>
           <rect x="320" y="17" width="76" height="14" rx="7" fill="rgba(255,184,64,0.18)" stroke="rgba(255,184,64,0.5)"/>
           <text x="330" y="27" fill="#FFD166" font-family="monospace" font-size="7.5" font-weight="700">VERCEL LIVE</text>
           <line x1="8" y1="38" x2="412" y2="38" stroke="rgba(255,152,92,0.16)"/>

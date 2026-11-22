@@ -66,9 +66,8 @@ window.DEFAULT_RESUME_DATA = {
       company: "My Dr — Hospital & Specialist Appointment Platform",
       companyType: "Production Launch · Regional Healthcare Platform",
       period: "Production Launch",
-      location: "Kerala, India · Live at www.abhijithsaji.in",
-      liveUrl: "https://www.abhijithsaji.in",
-      impactMetrics: ["Live on Vercel CI/CD", "Supabase + PostgreSQL", "Mobile-First UI/UX"],
+      location: "Kerala, India · Next.js + Supabase + Vercel",
+      impactMetrics: ["Live Vercel CI/CD", "Supabase + PostgreSQL", "Mobile-First UI/UX"],
       summary:
         "Conceived, architected, and launched a full-stack healthcare platform helping patients across Kerala search, filter, and book appointments with local hospitals and medical specialists.",
       highlights: [
@@ -147,9 +146,8 @@ window.DEFAULT_RESUME_DATA = {
       category: "Full-Stack Web",
       role: "Founder & Lead Full-Stack Dev",
       duration: "Concept → Production Launch",
-      liveUrl: "https://www.abhijithsaji.in",
-      heroMetric: "Live",
-      heroMetricLabel: "www.abhijithsaji.in",
+      heroMetric: "Full-Stack",
+      heroMetricLabel: "Next.js + Supabase",
       summary:
         "Full-stack Next.js, TypeScript, and Supabase healthcare platform enabling patients across Kerala to discover hospitals, filter specialists by district & department, and book real-time appointments.",
       mockupType: "mydr-healthcare",
